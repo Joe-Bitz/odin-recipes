@@ -69,33 +69,39 @@ div ul {
   list-style: none;
 }
 
-div ol{
-    display: inline-block;
-    text-align: left;
+div ol {
+  display: inline-block;
+  text-align: left;
 }
 
-.lasdiv p{
-  margin: 10;
+.lasdiv {
+  display: flex;
 }
-.make{
+.lasdiv p {
+  background: peachpuff;
+  border: 4px solid brown;
+  height: auto;
+  flex: 1;
+}
+/* .make {
   background-color: brown;
 }
 
-.layer{
+.layer {
   background-color: rgb(109, 27, 27);
 }
 
-.ahead{
+.ahead {
   background-color: rgb(107, 27, 27);
   color: white;
 }
 
-.reheat{
+.reheat {
   background-color: rgb(54, 13, 13);
-  color: white
-}
-
-.best{
-  background-color: rgb(20, 5, 5);
   color: white;
 }
+
+.best {
+  background-color: rgb(20, 5, 5);
+  color: white;
+} */
