@@ -73,3 +73,29 @@ div ol{
     display: inline-block;
     text-align: left;
 }
+
+.lasdiv p{
+  margin: 10;
+}
+.make{
+  background-color: brown;
+}
+
+.layer{
+  background-color: rgb(109, 27, 27);
+}
+
+.ahead{
+  background-color: rgb(107, 27, 27);
+  color: white;
+}
+
+.reheat{
+  background-color: rgb(54, 13, 13);
+  color: white
+}
+
+.best{
+  background-color: rgb(20, 5, 5);
+  color: white;
+}
