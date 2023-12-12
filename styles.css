@@ -82,6 +82,7 @@ div ol {
   border: 4px solid brown;
   height: auto;
   flex: 1;
+  margin: 10px;
 }
 /* .make {
   background-color: brown;
